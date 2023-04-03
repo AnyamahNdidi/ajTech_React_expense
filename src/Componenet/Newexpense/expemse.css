@@ -1,0 +1,9 @@
+.new_expense{
+    width: 50rem;
+    background-color: azure;
+    text-align: center;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 12px;
+}
+
